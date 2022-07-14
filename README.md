@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- saved from url=(0040)https://www.linkedin.com/?trk=msn-top-in -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="pageKey" content="d_homepage-guest-home">
